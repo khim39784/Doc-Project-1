@@ -12,7 +12,7 @@ Project consists of a simple release note and administrator's guide topic about 
 
 <h2>Release Note </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Grant Accounting for Allocation Pool Transactions</b> (https://github.com/khim39784/
 
 <h2>Administrator's Guide Topic</h2>
 
