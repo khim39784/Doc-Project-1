@@ -12,7 +12,7 @@ Project consists of a simple release note and administrator's guide topic about 
 
 <h2>Release Note </h2>
 
-- <b>Grant Accounting for Allocation Pool Transactions</b> (https://github.com/khim39784/
+- <b>Grant Accounting for Allocation Pool Transactions</b> (https://github.com/khim39784/Doc-Project-1/blob/main/RN%20Grant%20Accounting%20for%20Allocation%20Pool%20Transactions.pdf)
 
 <h2>Administrator's Guide Topic</h2>
 
