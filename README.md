@@ -16,6 +16,8 @@ Project consists of a simple release note and administrator's guide topic about 
 
 <h2>Administrator's Guide Topic</h2>
 
+- <b>Grant Accounting for Allocation Pool Transactions - Early Adopter Guide</b> (https://github.com/khim39784/Doc-Project-1/blob/main/Grant-Accounting-for-Allocation-Pool-Transactions-Early-Adopter-Guide-Early-Adopter-PDF-Template%20(2).pdf)
+
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
